@@ -1,0 +1,14 @@
+C:\Users\Marwa Wadud\source\repos\WFAProject\WFAProject\bin\Debug\WFAProject.exe.config
+C:\Users\Marwa Wadud\source\repos\WFAProject\WFAProject\bin\Debug\WFAProject.exe
+C:\Users\Marwa Wadud\source\repos\WFAProject\WFAProject\bin\Debug\WFAProject.pdb
+C:\Users\Marwa Wadud\source\repos\WFAProject\WFAProject\obj\Debug\WFAProject.Properties.Resources.resources
+C:\Users\Marwa Wadud\source\repos\WFAProject\WFAProject\obj\Debug\WFAProject.csproj.GenerateResource.cache
+C:\Users\Marwa Wadud\source\repos\WFAProject\WFAProject\obj\Debug\WFAProject.csproj.CoreCompileInputs.cache
+C:\Users\Marwa Wadud\source\repos\WFAProject\WFAProject\obj\Debug\WFAProject.exe
+C:\Users\Marwa Wadud\source\repos\WFAProject\WFAProject\obj\Debug\WFAProject.pdb
+C:\Users\Marwa Wadud\source\repos\WFAProject\WFAProject\obj\Debug\WFAProject.Employee.resources
+C:\Users\Marwa Wadud\source\repos\WFAProject\WFAProject\obj\Debug\WFAProject.Login.resources
+C:\Users\Marwa Wadud\source\repos\WFAProject\WFAProject\obj\Debug\WFAProject.Menu.resources
+C:\Users\Marwa Wadud\source\repos\WFAProject\WFAProject\obj\Debug\WFAProject.ChooseOption.resources
+C:\Users\Marwa Wadud\source\repos\WFAProject\WFAProject\obj\Debug\WFAProject.Extra.resources
+C:\Users\Marwa Wadud\source\repos\WFAProject\WFAProject\obj\Debug\WFAProject.csproj.AssemblyReference.cache
